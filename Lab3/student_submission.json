@@ -1,0 +1,76 @@
+{
+    "student_username": "akatreka",
+    "student_name": "Arush Katrekar",
+    "vt_plus": {
+        "min": 1.7,
+        "typical": 2.38,
+        "max": 3.15
+    },
+    "vt_minus": {
+        "min": 0.9,
+        "typical": 1.4,
+        "max": 2.0
+    },
+    "t_thl": {
+        "typical": 7,
+        "max": 15
+    },
+    "t_tlh": {
+        "typical": 7,
+        "max": 15
+    },
+    "t_phl": {
+        "typical": 14,
+        "max": 24
+    },
+    "t_plh": {
+        "typical": 14,
+        "max": 24
+    },
+    "t_graph": {
+        "thl": 1.6,
+        "tlh": 3.2,
+        "phl": 7,
+        "plh": 9
+    },
+    "delays": {
+        "4_1": 18,
+        "4_2": 23,
+        "4_3": 23,
+        "4_4": 18,
+        "4_5": 32,
+        "4_6": 32,
+        "4_7": 51
+    },
+    "step_1": {
+        "VT_plus": 1.57,
+        "VT_minus": 1.28
+    },
+    "step_2": {
+        "VT_plus": 1.63,
+        "VT_minus": 1.21
+    },
+    "step_3b": {
+        "minimum": {
+            "a0_to_cout0": 30.587,
+            "a0_to_s0": 20.627,
+            "a0_to_s1": 40.503,
+            "a0_to_s2": 59.87
+        },
+        "maximum": {
+            "a0_to_cout0": 49.386,
+            "a0_to_s0": 39.441,
+            "a0_to_s1": 59.657,
+            "a0_to_s2": 69.278
+        },
+        "predicted": {
+            "a0_to_cout0": 50,
+            "a0_to_s0": 78,
+            "a0_to_s1": 89,
+            "a0_to_s2": 100
+        }
+    },
+    "step_3c": {
+        "path_delay_a0_to_S2": 53.2
+    }
+}
