@@ -31,7 +31,7 @@ assign right[1] = ~(p[1]  & p[8]  & p[11]);
 assign right[2] = ~(p[4]  & p[6]  & p[7]);
 assign right[3] = ~(p[2]  & p[3]  & p[13]);
 assign right[4] = ~(p[0]  & p[9]  & p[14]);
-assign right[5] = p[9]  & p[15];
+assign right[5] = p[9]  & p[14];
 assign right[6] = p[0]  & p[3];
 assign right[7] = p[2]  & p[13];
 endmodule
