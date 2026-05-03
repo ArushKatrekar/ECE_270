@@ -1,0 +1,7 @@
+{
+    "name": "Arush Katrekar",
+    "username": "akatreka",
+    "assign_next_q_0": "~( p[0] & p[1] & p[2] & p[5] );",
+    "assign_next_q_1": "~( p[0] & p[4] & p[5] & p[6] );",
+    "assign_next_q_2": "~( p[0] & p[1] & p[4] & p[7] );"
+}
